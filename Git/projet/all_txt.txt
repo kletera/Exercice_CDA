@@ -1,0 +1,4 @@
+./all_txt.txt
+./docs/format.txt
+./src/format.txt
+./tests/format.txt

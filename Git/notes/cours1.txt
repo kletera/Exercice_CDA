@@ -1,0 +1,2 @@
+Introduction à Linux
+Les commandes Bash sont très utiles.

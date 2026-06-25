@@ -1,0 +1,6 @@
+INFO Application démarrée
+ERROR Connexion échouée
+INFO Requête reçue
+WARNING Mémoire faible
+ERROR Timeout serveur
+INFO Traitement terminé

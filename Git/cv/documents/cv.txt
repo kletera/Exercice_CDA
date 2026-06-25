@@ -1,0 +1,6 @@
+Nom : Dupont
+Prénom : Alex
+Compétences :
+- HTML
+- CSS
+- JavaScript
